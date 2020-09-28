@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">trabalhodepam</string>
+
+    <string name="btnfale"/>
+    <string name="btnlogin"/>
+    <string name="btnnot"/>
+    <string name="btncartaz"/>
+
+    <string name="txtfale">Fale Conosco</string>
+    <string name="txtlogin">Login</string>
+    <string name="txtpecas">Peças em cartaz</string>
+    <string name="txtnot">Notícias</string>
+    <string name="txtteatro">Teatro</string>
+
+    <string name="btninsta"/>
+    <string name="txtfaleconosco">Fale Conosco</string>
+    <string name="txtemail">Email:</string>
+    <string name="txtemail2">teatrobrasil@contato.com</string>
+    <string name="txttelefone">Telefone:</string>
+    <string name="txtnumero">(11) 3904-2541</string>
+    <string name="txtinstagram">Instagram:</string>
+
+    <string name="txtlogar">Login</string>
+    <string name="txtemaillogin">Email:</string>
+    <string name="txtsenhalogin">Senha:</string>
+    <string name="btnentrar">Entrar</string>
+
+    <string name="digitaremail"/>
+    <string name="digitarsenha"/>
+
+    <string name="txtnoticias">Notícias</string>
+    <string name="txtescrita">Confira as notícias atualizadas sobre o teatro!</string>
+    <string name="btnconferir">Conferir</string>
+
+    <string name="txtlocalizar">Sua localização atual:</string>
+
+    <string name="txtpecasemcartaz">Peças em cartaz</string>
+    <string name="peca1"/>
+    <string name="peca2"/>
+    <string name="peca3"/>
+    <string name="peca4"/>
+
+    <string name="txtlocalizacaoreal"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
